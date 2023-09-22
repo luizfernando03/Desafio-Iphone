@@ -67,5 +67,3 @@
 
 - **Desenvolvimento Web**: Gerenciamento de dependências, APIs REST, Spring framework, deploy na nuvem.
 
-- ![](./iPhone_modelagem.png)
-
