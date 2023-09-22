@@ -5,8 +5,6 @@
 <img src='https://hermes.dio.me/tracks/9631898e-a83c-4c04-aefd-a782ead2db8f.png' width='200' />
 </p>
 
-![](./iPhone_modelagem.png)
-
 ## Tópicos
 - **Sintaxe Básica**:
     Variáveis, tipos de dados e operadores.
@@ -68,4 +66,6 @@
     Escrita e execução de testes unitários simples.
 
 - **Desenvolvimento Web**: Gerenciamento de dependências, APIs REST, Spring framework, deploy na nuvem.
+
+- ![](./iPhone_modelagem.png)
 
