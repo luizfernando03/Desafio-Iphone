@@ -65,4 +65,8 @@
 - **Testes Básicos**:
     Escrita e execução de testes unitários simples.
 
-- **Desenvolvimento Web**: Gerenciamento de dependências, APIs REST, Spring framework, deploy na nuvem.  
+- **Desenvolvimento Web**: Gerenciamento de dependências, APIs REST, Spring framework, deploy na nuvem.
+
+- # Orientação a Objetos e UML: Diagramação de Classes do iPhone
+
+![](./iPhone_modelagem.png)
